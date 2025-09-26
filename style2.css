@@ -1,0 +1,135 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+.bloco{
+    display: flex;
+    background: linear-gradient(to top right, #b04ceb, #5c5cfc);    
+    color: white;
+    width: 70px;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container1{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 80px;
+    background-color:black;
+    justify-content:flex-start;
+}
+.container2{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 80px;
+    background-color:black;    
+    justify-content:center;
+}
+.container3{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    justify-content:flex-end;
+}
+.container4{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    justify-content:space-between;
+}
+.container5{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    justify-content:space-around;
+}
+.container6{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    justify-content:space-evenly;
+}
+.container7{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    justify-content:center;
+}
+.container8{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    justify-content:space-between;
+}
+.container9{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    justify-content:space-around;
+}
+.container10{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    justify-content:center;
+}
+.container11{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    justify-content:center;
+}
+footer{
+    display: flex;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(to top , #b04ceb, #5c5cfc);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#transição{
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(to bottom , black , #5c5cfc );
+}
